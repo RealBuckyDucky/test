@@ -33,7 +33,7 @@
   --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
-  --serverlist-brightness: 0;
+  --serverlist-brightness: 1;
   --left-brightness: 0.8;
   --middle-brightness: 0.64;
   --right-brightness: 0.8;
@@ -49,10 +49,6 @@
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
-}
-  
-  nav.wrapper-1_HaEi {
-  background-color: red;
 }
 
 /* Any custom CSS below here */
